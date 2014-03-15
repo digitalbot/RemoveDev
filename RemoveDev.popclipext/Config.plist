@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Extension Identifier</key>
+	<string>com.digital-bot.popclip.extension.remove-dev</string>
+	<key>Extension Description</key>
+	<string>Remove &quot;DEV&quot; words from selected strings</string>
+	<key>Extension Name</key>
+	<string>Remove DEV</string>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>Shell Script File</key>
+			<string>script.sh</string>
+			<key>Image File</key>
+			<string>icon.png</string>
+			<key>Title</key>
+			<string>Remove DEV</string>
+		</dict>
+	</array>
+</dict>
+</plist>
